@@ -1,6 +1,8 @@
 # GitHub Portfolio Templates
 
-![Banner Image](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80)
+<div align="center">
+  <img src="https://media1.tenor.com/m/iLrhzAZqtuoAAAAd/shiba-sleep-shiba.gif" alt="Banner Image">
+</div>
 
 A collection of clean, professional, and customizable markdown portfolio templates designed specifically for college students across various disciplines.
 
